@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">RecollDroid</string>
+    <string name="top_app_bar_title">Recoll</string>
+    <string name="enter_recoll_query">Enter recoll query.</string>
+    <string name="recoll_icon">Recoll Icon</string>
+    <string name="preview_btn">Preview</string>
+    <string name="open_btn">Open</string>
+    <string name="snippets_btn">Snippets</string>
+    <string name="search_action">Search</string>
+    <string name="query_screen">Query</string>
+    <string name="results_screen">Results</string>
+    <string name="back_button">Back</string>
 </resources>
